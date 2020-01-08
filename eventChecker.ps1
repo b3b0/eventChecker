@@ -1,3 +1,8 @@
+# The Unlicense
+# January 2020
+# b3b0
+# https://github.com/b3b0/checkPatch
+
 param([string]$type, [string]$search, [string]$who)
 
 If (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
