@@ -8,8 +8,8 @@ Simple PowerShell tool to tell you about latest logins, failures to login and po
  
  Example:
  
- `./eventcheck.ps1 power myserver.mydomain.com
- TimeGenerated : 1/1/2020 10:40:45 PM>
+ `./eventcheck.ps1 power myserver.mydomain.com`
+ `TimeGenerated : 1/1/2020 10:40:45 PM>
  Message       : The process C:\Windows\System32\RuntimeBroker.exe (MYSERVER) has initiated the restart of computer MYSERVER on behalf of 
                MYDOMAIN\Administrator for the following reason: Other (Unplanned)
                  Reason Code: 0x5000000
