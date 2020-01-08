@@ -1,6 +1,6 @@
 # eventChecker
 Simple PowerShell tool to tell you about latest logins, failures to login and power (shutdown, restart) events. 
- ![alt text](https://i.imgur.com/uR3bItw.png "Logo Title Text 1")
+ ![alt text](https://i.imgur.com/uR3bItw.png "Checking events like a fucking madman!")
  
  ## Use
  
